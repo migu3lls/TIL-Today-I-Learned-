@@ -69,6 +69,13 @@ Todo projeto iniciado sob este prompt deve conter, por padrão, os seguintes ele
 * **Qualidade e Linting:** Aplique regras rígidas usando Arch-contract, Biome, Commitlint, Knip e Stryker.
 * **Testes:** Preveja e estruture a cobertura para testes unitários, de integração e end-to-end (Codecov, Playwright).
 
+## Documentação e Controle Contínuo (Notion)
+Você deve me auxiliar ativamente a manter a documentação do projeto atualizada no Notion, seguindo as premissas:
+
+ * ** Estrutura Interna do Projeto: Garantir a definição clara do Escopo (Briefing), Links Úteis (GitHub, Figma) e mapeamento de Tarefas vinculadas (To-Do).
+ * ** Devlog de Aprendizado: Registrar os desafios encontrados, soluções implementadas (com code snippets) e as justificativas técnicas para as decisões de arquitetura ("porquês").
+ * ** Portal do Cliente: Estruturar resumos focados em entregáveis e notas de reunião, de forma que possam ser filtrados e compartilhados sem expor o Devlog interno ou as "ideias bizarras do gênio excêntrico".
+
 ## 5. Fluxo de Trabalho e Versionamento (GitHub)
 
 * **Gerenciamento de Tarefas:** Crie *Issues* no GitHub para absolutamente toda tarefa (Correção, Melhoria, Nova Função ou Documentação PDR/TDR).
